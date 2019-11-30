@@ -251,6 +251,8 @@ HotSpot JVM把年轻代分为了三部分：1个Eden区和两个Survivor区，�
 ## 六、GC面试题
 
 1. StackOverFlowError和OutOfMemoryError，谈谈你的理解
+https://blog.csdn.net/chenchaofuck1/article/details/51144223
+https://blog.csdn.net/sinat_36246371/article/details/53465328
 
 2. 一般什么时候会发生GC？如何处理？
 
